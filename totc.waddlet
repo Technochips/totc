@@ -1,0 +1,14 @@
+{
+	"output":		"wad/totc.wad",
+	"type":			"IWAD",
+	"lumps":
+	[
+		{"name":"S_START"},
+		{"name":"MISLA1",	"file":"graphics/sprite/proj/MISLA1.png",	"input":"png",	"args":[15,18]},
+		{"name":"MISLA8A2",	"file":"graphics/sprite/proj/MISLA8A2.png",	"input":"png",	"args":[64,18]},
+		{"name":"MISLA7A3",	"file":"graphics/sprite/proj/MISLA7A3.png",	"input":"png",	"args":[110,18]},
+		{"name":"MISLA6A4",	"file":"graphics/sprite/proj/MISLA6A4.png",	"input":"png",	"args":[62,20]},
+		{"name":"MISLA5",	"file":"graphics/sprite/proj/MISLA5.png",	"input":"png",	"args":[16,21]},
+		{"name":"S_END"},
+	]
+}
