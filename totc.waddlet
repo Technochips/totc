@@ -3,6 +3,14 @@
 	"type":			"IWAD",
 	"lumps":
 	[
+		{"name":"STFST01",	"file":"graphics/hud/face/STFST01.png",		"input":"png",	"args":[-5,-2]},
+		{"name":"STFST00",	"file":"graphics/hud/face/STFST00.png",		"input":"png",	"args":[-5,-2]},
+		{"name":"STFST02",	"file":"graphics/hud/face/STFST02.png",		"input":"png",	"args":[-4,-2]},
+		{"name":"STFTL00",	"file":"graphics/hud/face/STFTL00.png",		"input":"png",	"args":[-3,-2]},
+		{"name":"STFTR00",	"file":"graphics/hud/face/STFTR00.png",		"input":"png",	"args":[-5,-3]},
+		{"name":"STFOUCH0",	"file":"graphics/hud/face/STFOUCH0.png",	"input":"png",	"args":[-5,-1]},
+		{"name":"STFEVL0",	"file":"graphics/hud/face/STFEVL0.png",		"input":"png",	"args":[-4,-2]},
+		{"name":"STFKILL0",	"file":"graphics/hud/face/STFKILL0.png",	"input":"png",	"args":[-4,-2]},
 		{"name":"S_START"},
 		{"name":"MISLA1",	"file":"graphics/sprite/proj/MISLA1.png",	"input":"png",	"args":[15,18]},
 		{"name":"MISLA8A2",	"file":"graphics/sprite/proj/MISLA8A2.png",	"input":"png",	"args":[64,18]},
