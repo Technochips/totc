@@ -3,6 +3,8 @@
 	"type":			"IWAD",
 	"lumps":
 	[
+		{"name":"DSPISTOL",	"file":"sound/weapons/DSPISTOL.wav",		"input":"wav"},
+		
 		{"name":"STFST01",	"file":"graphics/hud/face/STFST01.png",		"input":"png",	"args":[-5,-2]},
 		{"name":"STFST00",	"file":"graphics/hud/face/STFST00.png",		"input":"png",	"args":[-5,-2]},
 		{"name":"STFST02",	"file":"graphics/hud/face/STFST02.png",		"input":"png",	"args":[-4,-2]},
@@ -52,11 +54,18 @@
 		{"name":"STFDEAD0",	"file":"graphics/hud/face/STFOUCH0.png",	"input":"png",	"args":[-5,-1]},
 		
 		{"name":"S_START"},
+		
+		{"name":"PISGA0",	"file":"graphics/hud/weapons/pistol/PISGA0.png",	"input":"png",	"args":[-184,-92]},
+		{"name":"PISGB0",	"file":"graphics/hud/weapons/pistol/PISGB0.png",	"input":"png",	"args":[-193,-75]},
+		{"name":"PISGC0",	"file":"graphics/hud/weapons/pistol/PISGC0.png",	"input":"png",	"args":[-200,-70]},
+		{"name":"PISFA0",	"file":"graphics/hud/weapons/pistol/PISFA0.png",	"input":"png",	"args":[-171,-56]},
+		
 		{"name":"MISLA1",	"file":"graphics/sprite/proj/MISLA1.png",	"input":"png",	"args":[15,18]},
 		{"name":"MISLA8A2",	"file":"graphics/sprite/proj/MISLA8A2.png",	"input":"png",	"args":[64,18]},
 		{"name":"MISLA7A3",	"file":"graphics/sprite/proj/MISLA7A3.png",	"input":"png",	"args":[110,18]},
 		{"name":"MISLA6A4",	"file":"graphics/sprite/proj/MISLA6A4.png",	"input":"png",	"args":[62,20]},
 		{"name":"MISLA5",	"file":"graphics/sprite/proj/MISLA5.png",	"input":"png",	"args":[16,21]},
+		
 		{"name":"S_END"},
 	]
 }
